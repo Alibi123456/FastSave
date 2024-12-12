@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Википедия о Vivo Y33s">
+    <title>Vivo Y33s - Обзор</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #6200ea;
+            color: #fff;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+            padding: 10px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #6200ea;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #6200ea;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vivo Y33s</h1>
+        <p>Все о смартфоне Vivo Y33s</p>
+    </header>
+    <main>
+        <section>
+            <h2>Общие характеристики</h2>
+            <ul>
+                <li><strong>Процессор:</strong> MediaTek Helio G80</li>
+                <li><strong>Дисплей:</strong> 6.58" IPS LCD (2408x1080)</li>
+                <li><strong>Оперативная память:</strong> 4/8 ГБ</li>
+                <li><strong>Встроенная память:</strong> 128 ГБ</li>
+                <li><strong>Камера:</strong> 50 Мп + 2 Мп + 2 Мп (основная), 16 Мп (фронтальная)</li>
+                <li><strong>Аккумулятор:</strong> 5000 мАч</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Преимущества</h2>
+            <ul>
+                <li>Высокое качество камеры</li>
+                <li>Емкий аккумулятор</li>
+                <li>Доступная цена</li>
+                <li>Приятный дизайн</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Цена</h2>
+            <p>Средняя цена на Vivo Y33s составляет около <strong>$200</strong>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Vivo Y33s Wiki | <a href="#">Контакты</a></p>
+    </footer>
+</body>
+</html>
